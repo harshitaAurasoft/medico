@@ -69,7 +69,6 @@
         display: none;
     }
 }
-
 .main {
     margin-top: 2px;
 }
@@ -133,3 +132,8 @@
 .main .main-active a {
     color: #fff;
 }
+
+/* @media screen and (max-height: 850px) {
+    .navTwo {padding-top: 15px;}
+    .navTwo a {font-size: 18px;}
+  } */
